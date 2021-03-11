@@ -1,0 +1,1 @@
+{ "userid": "9876", "type": "curse", "cost": "666" }

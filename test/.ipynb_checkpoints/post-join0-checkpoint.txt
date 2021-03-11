@@ -1,0 +1,1 @@
+{ "userid": "12345", "org": "Magician Guild", "cost": "111", "level": "apprentice" }
